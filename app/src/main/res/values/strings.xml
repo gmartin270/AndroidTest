@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AndroidTest</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="lvlName">Nombre:</string>
+    <string name="lvlLastName">Apellido:</string>
+    <string name="lvlEmail">Email:</string>
+    <string name="btnOk">Aceptar</string>
+    <string name="btnCancel">Cancelar</string>
 </resources>
